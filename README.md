@@ -9,3 +9,5 @@
 **Excute npm install**
 
 **Then npm run dev**
+
+**My porofolio has deployed on aws that the website is https://michaelqu.d3q4ks5j2a6n9c.amplifyapp.com**
